@@ -69,6 +69,5 @@ Assembler Project – 2025
 This project was written and compiled in a Unix/Linux environment using `gcc`.  
 You can compile the project using:
 
-
 ```bash
 gcc -Wall -ansi -pedantic *.c -o assembler

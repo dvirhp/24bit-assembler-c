@@ -52,7 +52,6 @@ Dynamic memory allocation is used for flexible data structure handling (symbol t
 - `second_pass.c/h` – Logic for the second pass
 - `symbol_list.c/h` – Symbol table implementation
 - `utils.c/h` – Helper functions
-- (Add more files as needed...)
 
 ---
 
